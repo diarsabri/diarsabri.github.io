@@ -31,7 +31,7 @@ Explores diagnosing pneumonia through chest x-ray images with the help of deep l
 
 - [**Sentiment and growth of different news categories on Twitter: A study in Natural Language Processing**](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-259986)  
 Quantitative NLP-study of the geographical spread and growth of tweets regarding different news categories. Confined to tweets in the U.S on five self-established categories. Coding mostly in R & some Python, using the Twitter API as a data source.
-- [Code](https://github.com/diarsabri/KEX-19-KTH)
+- [Code](https://github.com/diarsabri/BSC-KTH-2019)
 
 
 
