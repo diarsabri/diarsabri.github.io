@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: "CV_V2.pdf"
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
