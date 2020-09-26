@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
     url: "CV_V2.pdf"
   # - title: "Categories"
