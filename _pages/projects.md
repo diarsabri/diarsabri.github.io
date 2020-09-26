@@ -4,10 +4,10 @@ title: "Projects"
 classes: wide
 ---
 
-## NLP study for financial analyst reports  
+## NLP study for financial analyst reports - Internal Research Project at SEB   
 
 Note: Project still in the initial phase of development, will be updated with more information as the project progresses.  
-Implementing machine learning and state-of-the-art NLP-frameworks on real data in cooperation with data scientists and analysts at SEB. \textbf{Tools:} Python, Tensorflow, Google Cloud Platform (BigQuery) etc.  
+Implementing machine learning and state-of-the-art NLP-frameworks on real data in cooperation with data scientists and analysts at SEB. **Tools:** Python, Tensorflow, Google Cloud Platform (BigQuery) etc.  
 By combining neural-network language processing and generative statistical modeling the goal is to analyze financial reports and extract information from the unstructured textual data such as sentiments, market indicators, company descriptions etc.
 
 Project plan:  
