@@ -46,5 +46,5 @@ U.S 2016 election results
 ## Stockholm City Museum / Nordic Museum Audioguide
 
 - [**Audioguide (iOS)**](https://apps.apple.com/se/app/nordiska-museets-audioguide/id1205181365)
-Built the foundation from scratch together with a project group. Coding in JavaScript & React-Native. Built with the intention that other museums take part of the application and integrate it in their own systems. Currently in use by the Nordic Museum, and soon Jamtli museum.
+Built the foundation from scratch together with a project group. Coding in JavaScript & React-Native. Built with the intention that other museums take part of the application and integrate it in their own systems. Currently in operation by Nordiska Museet, used by over **65000** visitors in 2019. Jamtli museum is set to integrate the app as well in 2020.
 - [Our code](https://github.com/Carlhultberg/MVK-2018-Pub)
