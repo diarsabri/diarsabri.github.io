@@ -76,16 +76,16 @@ author:
   bio    : "Data analyst, Söderberg & Partners. Computer Science, KTH"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-square"
       url: "https://github.com/diarsabri"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/diar-sabri/"
     - label: "diar.sabri@hotmail.com"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fal fa-envelope-square"
       url: "mailto:diar.sabri@hotmail.com"
     - label: "+46 73 9747 880"
-      icon: "fa fa-phone"
+      icon: "fal fa-phone"
       url: "tel:+46 73 9747 880"
 
 
