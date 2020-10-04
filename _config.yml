@@ -72,7 +72,7 @@ plugins:
 
 author:
   name   : "Diar Sabri"
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data analyst, Söderberg & Partners. Computer Science, KTH"
   links:
     - label: "GitHub"
